@@ -36,7 +36,7 @@
 }
 
 .btn-medium:hover, btn-large:hover {
-    background: black;
+    background: #3a5311;
     color:white;
     transition: all 0.3 ease-out;
 }
