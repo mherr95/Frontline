@@ -43,6 +43,10 @@ HOME Page CSS
     margin-top: 32px;
 }
 
+.btn-large {
+    font-weight: bold;
+}
+
 .home-btns .btn {
     margin: 6px
 }

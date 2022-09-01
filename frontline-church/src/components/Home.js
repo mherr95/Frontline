@@ -12,7 +12,7 @@ function Home() {
     <p>"We loved him, because he first loved us"</p>
     <p className='verse'>1 John 4:19</p>
     <div className='home-btns'>
-     <Button className='btn-large'>Visit Us</Button>
+     <Button className='btn-large' buttonSize='btn-large'>Visit Us</Button>
     </div>
    </div>
   </div>
